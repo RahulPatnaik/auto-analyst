@@ -3,3 +3,7 @@ beautifulsoup4
 pandas
 gnews
 kagglehub
+nltk
+keybert
+sentence-transformers
+vaderSentiment
